@@ -1,5 +1,5 @@
 # My_Coffee_Shop
-This is demo of coffee shop terminal and menu app. You can use it on any platform and on any browser. It can work in web app or desktop mode. Works on android and IOS. Want to make business? This is for you.
+This is demo of coffee shop terminal and menu app. You can use it on any platform and on any browser. It can work in web app or desktop mode. Works on android and IOS. Want to make business? This is for you then.
 
 ## Terminal
 
