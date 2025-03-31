@@ -2,11 +2,6 @@
 
 This is demo of coffee shop terminal and menu app. You can use it on any platform and on any browser. It can work in web app or desktop mode. Works on android and IOS. Want to make business? This is for you then.
 
->[!Caution]
->This program is no longer supported and will be deprecated in the near future.
->
->Repository will be archived
-
 ## Terminal
 
 ![Snimak ekrana 2024-09-22 200905](https://github.com/user-attachments/assets/9cdd56e7-39e3-4735-8aca-e2cb760cf152)
